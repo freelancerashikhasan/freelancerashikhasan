@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](https://your-image-link.com](https://avatars.githubusercontent.com/u/127730760?v=4)) <!-- Replace with a header image -->
+![Header Image]([https://your-image-link.com](https://avatars.githubusercontent.com/u/127730760?v=4)](https://avatars.githubusercontent.com/u/127730760?v=4)) <!-- Replace with a header image -->
 
 ## 🌐Full Stack Web Developer
 
@@ -22,7 +22,7 @@ Hello! I'm Ashik Hasan, a passionate web developer with a love for creating beau
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=api&logoColor=fff
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=api&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 
