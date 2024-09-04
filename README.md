@@ -1,13 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](https://avatars.githubusercontent.com/u/127730760?v=4) <!-- Replace with a header image -->
-
-
 ## 🌐Full Stack Web Developer
 
 Hello! I'm Ashik Hasan, a passionate web developer with a love for creating beautiful and functional web experiences. I enjoy building things that live on the internet, whether that’s websites, applications, or anything in between. I’m constantly learning new things and sharing my knowledge with the community.
-
----
 
 ### 🔧 Technologies & Tools
 
