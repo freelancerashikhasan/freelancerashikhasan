@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image]([https://your-image-link.com](https://avatars.githubusercontent.com/u/127730760?v=4)](https://avatars.githubusercontent.com/u/127730760?v=4)) <!-- Replace with a header image -->
+![Header Image](https://avatars.githubusercontent.com/u/127730760?v=4) <!-- Replace with a header image -->
+
 
 ## 🌐Full Stack Web Developer
 
@@ -37,10 +38,10 @@ Hello! I'm Ashik Hasan, a passionate web developer with a love for creating beau
 
 ### 💼 Projects & Work
 
-- **[Project 1](https://github.com/freelancerashikhasan/zuktoborno)**:
-- **[Project 2](https://github.com/freelancerashikhasan/coaching-managerment)**:
-- **[Project 3](https://github.com/freelancerashikhasan/ecommerce01)**: 
-- **[Project 3](https://github.com/freelancerashikhasan/portfolio)**: 
+- **[Company Website](https://github.com/freelancerashikhasan/zuktoborno)**:
+- **[School Management System](https://github.com/freelancerashikhasan/coaching-managerment)**:
+- **[Ecommerce](https://github.com/freelancerashikhasan/ecommerce01)**: 
+- **[Portfolio](https://github.com/freelancerashikhasan/portfolio)**: 
 
 Explore more of my work [here](https://github.com/freelancerashikhasan?tab=repositories).
 
@@ -57,4 +58,4 @@ Explore more of my work [here](https://github.com/freelancerashikhasan?tab=repos
 ### 📫 How to Reach Me
 
 - **Email**: [freelancerashikhasan@gmail.com](mailto:freelancerashikhasan@gmail.com)
-- **LinkedIn**: [[linkedin.com/in/ashikhasan](https://www.linkedin.com/in/ashik-hasan-280489263/)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ashik-hasan-280489263/))
+- **LinkedIn**: [[linkedin.com/in/ashikhasan](https://www.linkedin.com/in/ashik-hasan-280489263/)]
